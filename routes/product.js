@@ -5,6 +5,7 @@ var product_controller = require('../controllers/product');
 
 // test url in product controller
 router.get('/test', product_controller.test);
-console.log('=================')
+router.post('/create', product_controller.product_create);
+
 
 module.exports = router;

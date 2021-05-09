@@ -1,7 +1,7 @@
 {
   "name": "products_app",
   "version": "1.0.0",
-  "description": "Sample product app for Heady. Cheers !!.",
+  "description": "This is Sample product app for Heady. Cheers !!.",
   "main": "app.js",
   "scripts": {
     "test": "test",
